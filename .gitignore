@@ -1,0 +1,36 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-symlink
+.packages
+pubspec.lock
+/.idea
+*.iml
+.metadata
+build/
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# Android
+android/app/build/
+android/.gradle/
+android/.idea/
+android/.dart_tool/
+android/.settings/
+
+# VS Code
+.vscode/
+
+# Other
+**/*.swp
+**/*~
